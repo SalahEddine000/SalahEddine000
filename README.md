@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salah Eddine Soussi</h1>
 <h3 align="center">A passtionate Cloud engineer, On my way to become a software engineer</h3>
-<img align="center" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm02czVwYmlqdTBhYXJ4dnQ3OTVoYmI3NGt5cjhmdnpwNDRvZm9tOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.webp">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29nMnJuaXB1dGhvdWlqOGRqajRjdng4MnI1d2Zvbm5saDgwaWNydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
 
 - 🌱 I’m currently learning **Laravel, Vue js, PHP ...**
 
